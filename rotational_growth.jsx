@@ -195,7 +195,7 @@ var inputRevsValue = rowRevsTotalIterations.add('edittext {properties: {name: "i
 var dynamicTotalIterations = rowRevsTotalIterations.add("statictext", undefined, undefined, {name: "dynamicTotalIterations"}); 
 	// text defined in function later
 	dynamicTotalIterations.preferredSize.width = 180; 
-	dynamicTotalIterations.helpTip = "Photoshop will hate you if this is too high.";
+	dynamicTotalIterations.helpTip = "Photopea will hate you if this is too high.";
 
 var dividerA = rightInputColumn.add("panel", undefined, undefined, {name: "dividerA"}); 
 	dividerA.alignment = "fill"; 
